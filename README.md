@@ -1,2 +1,5 @@
 # Hello-world
-First repository
+
+Hi,
+My name is Jim and I'm from Boston, MA.
+
